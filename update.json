@@ -1,9 +1,9 @@
 {
-  "versionCode": 72,
-  "versionName": "3.0.0+build.72",
-  "releaseUrl": "https://github.com/7Mrlan/luoshu-release/releases/tag/v3.0.0+build.72",
-  "downloadUrl": "https://github.com/7Mrlan/luoshu-release/releases/download/v3.0.0+build.72/Luoshu-3.0.0+build.72-release.apk",
-  "changelog": "本次代码更新：\n\n- Merge remote-tracking branch 'origin/main' into develop\n- feat(update): install signed updates inside the app\n- fix(speech): normalize AI narration chunks before playback\n- chore: point update manifest at published release\n\n洛书 3.0.0 起使用独立包名 com.luoshu.reader，可与旧版 com.eyue.reader 同时安装，无需卸载旧版。新旧书库与设置独立，不会自动迁移。后续相同新包名与正式签名的版本可覆盖更新。\n",
-  "sha256": "f7fb3a85c8d46e701ee4d8aaa3c4da1f7b3ed948eceb927adc0a8f83554e5d8f",
+  "versionCode": 73,
+  "versionName": "3.0.0+build.73",
+  "releaseUrl": "https://github.com/7Mrlan/luoshu-release/releases/tag/v3.0.0+build.73",
+  "downloadUrl": "https://github.com/7Mrlan/luoshu-release/releases/download/v3.0.0+build.73/Luoshu-3.0.0+build.73-release.apk",
+  "changelog": "本次代码更新：\n\n- Merge remote-tracking branch 'origin/main' into develop\n- feat(settings): redesign the in-app update panel\n- chore: point update manifest at published release\n\n洛书 3.0.0 起使用独立包名 com.luoshu.reader，可与旧版 com.eyue.reader 同时安装，无需卸载旧版。新旧书库与设置独立，不会自动迁移。后续相同新包名与正式签名的版本可覆盖更新。\n",
+  "sha256": "ac53bed60303ac1b65185f1fe33bded9f4edbce004535bef5b9d19681edd5b79",
   "sizeBytes": 31699473
 }
