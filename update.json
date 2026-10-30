@@ -1,0 +1,9 @@
+{
+  "versionCode": 71,
+  "versionName": "3.0.0+build.71",
+  "releaseUrl": "https://github.com/7Mrlan/luoshu-release/releases/tag/v3.0.0+build.71",
+  "downloadUrl": "https://github.com/7Mrlan/luoshu-release/releases/download/v3.0.0+build.71/Luoshu-3.0.0+build.71-release.apk",
+  "sha256": "687dd1020330dfde3b777b87d50da191d089d557451f6efab70f8aba8ad1e0e4",
+  "sizeBytes": 31682973,
+  "changelog": "本次代码更新：\n\n- docs: record prose spacing release authorization\n- Merge remote-tracking branch 'origin/main' into develop\n- fix(reader): apply prose spacing across publication styles\n- chore: point update manifest at published release\n\n洛书 3.0.0 起使用独立包名 com.luoshu.reader，可与旧版 com.eyue.reader 同时安装，无需卸载旧版。新旧书库与设置独立，不会自动迁移。后续相同新包名与正式签名的版本可覆盖更新。"
+}
