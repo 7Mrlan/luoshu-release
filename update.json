@@ -1,9 +1,9 @@
 {
-  "versionCode": 73,
-  "versionName": "3.0.0+build.73",
-  "releaseUrl": "https://github.com/7Mrlan/luoshu-release/releases/tag/v3.0.0+build.73",
-  "downloadUrl": "https://github.com/7Mrlan/luoshu-release/releases/download/v3.0.0+build.73/Luoshu-3.0.0+build.73-release.apk",
-  "changelog": "本次代码更新：\n\n- Merge remote-tracking branch 'origin/main' into develop\n- feat(settings): redesign the in-app update panel\n- chore: point update manifest at published release\n\n洛书 3.0.0 起使用独立包名 com.luoshu.reader，可与旧版 com.eyue.reader 同时安装，无需卸载旧版。新旧书库与设置独立，不会自动迁移。后续相同新包名与正式签名的版本可覆盖更新。\n",
-  "sha256": "ac53bed60303ac1b65185f1fe33bded9f4edbce004535bef5b9d19681edd5b79",
-  "sizeBytes": 31699473
+  "versionCode": 74,
+  "versionName": "3.0.0+build.74",
+  "releaseUrl": "https://github.com/7Mrlan/luoshu-release/releases/tag/v3.0.0+build.74",
+  "downloadUrl": "https://github.com/7Mrlan/luoshu-release/releases/download/v3.0.0+build.74/Luoshu-3.0.0+build.74-release.apk",
+  "changelog": "本次代码更新：\n\n- docs: authorize source editing release\n- Merge remote-tracking branch 'origin/main' into develop\n- feat(reader): add source-backed editing and safe revision handoff\n- feat(update): install silently through Shizuku when available\n- chore: point update manifest at published release\n\n洛书 3.0.0 起使用独立包名 com.luoshu.reader，可与旧版 com.eyue.reader 同时安装，无需卸载旧版。新旧书库与设置独立，不会自动迁移。后续相同新包名与正式签名的版本可覆盖更新。\n",
+  "sha256": "9998327ec33dc1bf8f438053cd43589632884faf4f034e223bf999e98ca4ec60",
+  "sizeBytes": 31897029
 }
