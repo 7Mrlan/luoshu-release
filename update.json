@@ -1,9 +1,9 @@
 {
-  "versionCode": 76,
-  "versionName": "3.0.0+build.76",
-  "releaseUrl": "https://github.com/7Mrlan/luoshu-release/releases/tag/v3.0.0+build.76",
-  "downloadUrl": "https://github.com/7Mrlan/luoshu-release/releases/download/v3.0.0+build.76/Luoshu-3.0.0+build.76-release.apk",
-  "changelog": "本次代码更新：\n\n- Merge branch 'develop' into main: engine selection toolbar rebuild\n- fix(reader): rebuild engine selection toolbar with themed sheet and real underline styles\n- chore: point update manifest at published release\n\n洛书 3.0.0 起使用独立包名 com.luoshu.reader，可与旧版 com.eyue.reader 同时安装，无需卸载旧版。新旧书库与设置独立，不会自动迁移。后续相同新包名与正式签名的版本可覆盖更新。\n",
-  "sha256": "491c6f5ba9b2b7625a7ffc4ca6144a76f3877c0fb5541c906985d08b6748dbf7",
-  "sizeBytes": 31997593
+  "versionCode": 77,
+  "versionName": "3.0.0+build.77",
+  "releaseUrl": "https://github.com/7Mrlan/luoshu-release/releases/tag/v3.0.0+build.77",
+  "downloadUrl": "https://github.com/7Mrlan/luoshu-release/releases/download/v3.0.0+build.77/Luoshu-3.0.0+build.77-release.apk",
+  "changelog": "本次代码更新：\n\n- Merge branch 'develop' into main: remove platform selection box\n- fix(reader): clear the action-mode menu entirely to remove the system selection box\n- chore: point update manifest at published release\n\n洛书 3.0.0 起使用独立包名 com.luoshu.reader，可与旧版 com.eyue.reader 同时安装，无需卸载旧版。新旧书库与设置独立，不会自动迁移。后续相同新包名与正式签名的版本可覆盖更新。\n",
+  "sha256": "22228aed00bda616e7438d0aae2ff2ca4af1906b48534ff87462da92eb260ad0",
+  "sizeBytes": 31997589
 }
