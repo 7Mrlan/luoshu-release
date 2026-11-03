@@ -1,9 +1,9 @@
 {
-  "versionCode": 78,
-  "versionName": "3.0.0+build.78",
-  "releaseUrl": "https://github.com/7Mrlan/luoshu-release/releases/tag/v3.0.0+build.78",
-  "downloadUrl": "https://github.com/7Mrlan/luoshu-release/releases/download/v3.0.0+build.78/Luoshu-3.0.0+build.78-release.apk",
-  "changelog": "本次代码更新：\n\n- fix(mobi): split single-resource MOBI into chapters at mbp:pagebreak\n- chore: point update manifest at published release\n\n洛书 3.0.0 起使用独立包名 com.luoshu.reader，可与旧版 com.eyue.reader 同时安装，无需卸载旧版。新旧书库与设置独立，不会自动迁移。后续相同新包名与正式签名的版本可覆盖更新。\n",
-  "sha256": "f1f6cc329796c6edd1bc627be451345986f4de49c94494c2d34ff1a8f8ebfae4",
-  "sizeBytes": 31997593
+  "versionCode": 79,
+  "versionName": "3.0.0+build.79",
+  "releaseUrl": "https://github.com/7Mrlan/luoshu-release/releases/tag/v3.0.0+build.79",
+  "downloadUrl": "https://github.com/7Mrlan/luoshu-release/releases/download/v3.0.0+build.79/Luoshu-3.0.0+build.79-release.apk",
+  "changelog": "本次代码更新：\n\n- Merge branch 'develop' into main: instant edit preview and MOBI import fix\n- fix(reader): apply edits in memory instantly, and drop an API-33-only file call\n- chore: point update manifest at published release\n- fix(mobi): split single-resource MOBI into chapters at mbp:pagebreak\n\n洛书 3.0.0 起使用独立包名 com.luoshu.reader，可与旧版 com.eyue.reader 同时安装，无需卸载旧版。新旧书库与设置独立，不会自动迁移。后续相同新包名与正式签名的版本可覆盖更新。\n",
+  "sha256": "230aca15abdd3498dbd1826fc0edc126300a6c8e7f9a530a57bdd08e62248d9f",
+  "sizeBytes": 31997973
 }
