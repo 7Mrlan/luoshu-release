@@ -1,9 +1,9 @@
 {
-  "versionCode": 84,
-  "versionName": "3.0.0+build.84",
-  "releaseUrl": "https://github.com/7Mrlan/luoshu-release/releases/tag/v3.0.0+build.84",
-  "downloadUrl": "https://github.com/7Mrlan/luoshu-release/releases/download/v3.0.0+build.84/Luoshu-3.0.0+build.84-release.apk",
-  "changelog": "本次代码更新：\n\n- fix(reader): 恢复出版物目录层级并修复 TXT 编辑闪屏\n- chore: point update manifest at published release\n\n洛书 3.0.0 起使用独立包名 com.luoshu.reader，可与旧版 com.eyue.reader 同时安装，无需卸载旧版。新旧书库与设置独立，不会自动迁移。后续相同新包名与正式签名的版本可覆盖更新。\n",
-  "sha256": "075bf71d4b67751a441564314ae81e3b2e25ddfe3e0f7c646e85e991ea6272b9",
+  "versionCode": 85,
+  "versionName": "3.0.0+build.85",
+  "releaseUrl": "https://github.com/7Mrlan/luoshu-release/releases/tag/v3.0.0+build.85",
+  "downloadUrl": "https://github.com/7Mrlan/luoshu-release/releases/download/v3.0.0+build.85/Luoshu-3.0.0+build.85-release.apk",
+  "changelog": "本次代码更新：\n\n- fix(reader): 修复 EPUB 行末追加跨边界\n- chore: point update manifest at published release\n\n洛书 3.0.0 起使用独立包名 com.luoshu.reader，可与旧版 com.eyue.reader 同时安装，无需卸载旧版。新旧书库与设置独立，不会自动迁移。后续相同新包名与正式签名的版本可覆盖更新。\n",
+  "sha256": "1d53a6cd60d62042d677c2b1614bc249543d26a3e63296a5958f0e6e35b1cb2a",
   "sizeBytes": 32031337
 }
